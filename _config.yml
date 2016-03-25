@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: eastwoo's blog
+url: yingtaojuzi.github.io
+description: Recording interesting things in this blog
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
